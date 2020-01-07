@@ -13,3 +13,9 @@ p{
     color: darkgray;
     text-align: center;
 }
+p.sample {
+    color: black;
+    margin: 30px 30px;
+    padding: 10px;
+    border: medium solid rgb(235, 26, 165);
+    }
