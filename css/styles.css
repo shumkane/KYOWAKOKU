@@ -8,14 +8,13 @@ body{
 }
 div{
     text-align: center;
+    width: 150;
+    height: 150;
+}
+footer{
+    position: relative; bottom: 0;
 }
 p{
     color: darkgray;
     text-align: center;
 }
-p.sample {
-    color: black;
-    margin: 30px 30px;
-    padding: 10px;
-    border: medium solid rgb(235, 26, 165);
-    }
